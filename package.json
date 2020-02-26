@@ -10,7 +10,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.4.0",
-    "xterm": "2.9.2",
+    "xterm": "3.8.1",
     "xterm-addon-fit": "^0.3.0"
   },
   "scripts": {
